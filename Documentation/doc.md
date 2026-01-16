@@ -96,5 +96,4 @@ Through this project, I gained hands-on experience designing a scalable and secu
 
 ---
 
-Just tell me what you want next 🚀
 
